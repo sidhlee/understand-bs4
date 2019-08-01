@@ -2,7 +2,7 @@
 ## Collapse
 ---
 ### Example
-```
+```html
 <div class="container mt-3">
   <p>
     <a class="btn btn-primary" role="button"
