@@ -33,6 +33,15 @@
 </div>
 ```
 
+`.collapse`
+```scss
+.collapse {
+  display: none;
+  &.show {
+    display: block;
+  }
+}
+```
 
 
 
