@@ -83,7 +83,7 @@
 }
 ```
 
-![bs4-collapse-ex1](images/bs4-collapse-ex1.png)
+![bs4-collapse-ex1](images/bs4-collapse-ex1.png =250x)
 
 
 [codepen](https://codepen.io/sidhlee/pen/BEMGrE)
