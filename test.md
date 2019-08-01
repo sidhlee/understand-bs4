@@ -1,1 +1,0 @@
-[Codepen](https://codepen.io/sidhlee/pen/BEMGrE)
