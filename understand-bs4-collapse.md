@@ -83,7 +83,7 @@
 }
 ```
 
-![bs4-collapse-ex1](images/bs4-collapse-ex1.png =250x)
+<img src='images/bs4-collapse-ex1.png' alt='bs4 collapse' width="300px">
 
 
 [codepen](https://codepen.io/sidhlee/pen/BEMGrE)
