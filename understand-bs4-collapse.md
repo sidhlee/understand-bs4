@@ -32,7 +32,7 @@
   </div>
 </div>
 ```
-
+#### scss
 `.collapse`
 ```scss
 .collapse {
