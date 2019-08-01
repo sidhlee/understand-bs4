@@ -24,7 +24,9 @@
         <li><code>.collapse.show</code> shows content
       </ul>
       <p>
-      You can use a link with the <code>href</code> attribute, or a button with the <code>data-target</code> attribute. In both cases, the <code>data-toggle="collapse"</code> is required.
+      You can use a link with the <code>href</code> attribute, 
+      or a button with the <code>data-target</code> attribute. 
+      In both cases, the <code>data-toggle="collapse"</code> is required.
       </p>
     </div>
   </div>
