@@ -42,6 +42,15 @@
   }
 }
 ```
+`.collapsing`
+```scss
+.collapsing {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  @include transition($transition-collapse);
+}
+```
 `.card`
 ```scss
 .card {
