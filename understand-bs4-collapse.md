@@ -73,7 +73,15 @@
   }
 }
 ```
-
+`.card-body`
+```scss
+.card-body {
+  // Enable `flex-grow: 1` for decks and groups so that card blocks take up
+  // as much space as possible, ensuring footers are aligned to the bottom.
+  flex: 1 1 auto;
+  padding: $card-spacer-x;
+}
+```
 
 
 
